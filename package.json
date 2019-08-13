@@ -2,6 +2,10 @@
   "name": "@vbelolapotkov/js-config",
   "version": "0.1.0",
   "description": "Basic config for JS: eslint and prettier",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vbelolapotkov/js-config.git"
+  },
   "main": "index.js",
   "files": [
     "index.js",
