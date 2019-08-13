@@ -18,8 +18,8 @@ Create `.eslintrc.js` in your project root:
 
 ```js
 module.exports = {
-  extends: '@vbelolapotkov/js-config/eslint',
-}
+  extends: "@vbelolapotkov/eslint-config"
+};
 ```
 
 ### Prettier
@@ -27,5 +27,5 @@ module.exports = {
 Create `prettier.config.js` in your project root:
 
 ```js
-module.exports = require('@vbelolapotkov/js-config/prettier')
+module.exports = require("@vbelolapotkov/js-config/prettier");
 ```

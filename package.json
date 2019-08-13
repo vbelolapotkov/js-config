@@ -1,6 +1,6 @@
 {
   "name": "@vbelolapotkov/js-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Basic config for JS: eslint and prettier",
   "repository": {
     "type": "git",
