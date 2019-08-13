@@ -1,0 +1,24 @@
+{
+  "name": "@vbelolapotkov/js-config",
+  "version": "0.1.0",
+  "description": "Basic config for JS: eslint and prettier",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "eslint.js",
+    "prettier.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "configs"
+  ],
+  "author": "Vasily Belolapotkov <belolapotkov.v@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@vbelolapotkov/eslint-config": "^0.1.2",
+    "@vbelolapotkov/prettier-config": "^0.1.0"
+  }
+}
