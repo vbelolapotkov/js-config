@@ -22,7 +22,7 @@
   "author": "Vasily Belolapotkov <belolapotkov.v@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@vbelolapotkov/eslint-config": "^0.1.3",
+    "@vbelolapotkov/eslint-config": "^0.1.4",
     "@vbelolapotkov/prettier-config": "^0.1.0"
   }
 }
